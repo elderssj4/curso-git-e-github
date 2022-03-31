@@ -1,1 +1,1 @@
-console.log('priemira versão')
+console.log('primeira versão')
